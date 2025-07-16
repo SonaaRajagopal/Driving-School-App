@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "979019672254",
+    "project_id": "signinfirebase-a6c72",
+    "storage_bucket": "signinfirebase-a6c72.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979019672254:android:5e528d56a68db7d0894cef",
+        "android_client_info": {
+          "package_name": "com.example.drivinghub_welcome_login"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBL8I6jNsdDdz2ef22rxWRRalAO02rCmfg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
